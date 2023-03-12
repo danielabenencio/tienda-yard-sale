@@ -91,4 +91,4 @@ productCard.appendChild(productInfo);
 cardsContainer.appendChild(productCard);
 }}
 
-renderProducts (productList)
+renderProducts (productList);
